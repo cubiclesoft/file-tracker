@@ -16,6 +16,7 @@ Documentation
 
 * [Getting Started Guide](docs/getting_started.md)
 * [Frequently Asked Questions](docs/faq.md)
+* [Changelog](docs/changelog.md)
 
 Product Support
 ---------------

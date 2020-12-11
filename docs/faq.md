@@ -30,6 +30,8 @@ A single license covers you and/or your whole team plus upgrades and product sup
 
 The [CubicleSoft File Hashes repository](https://github.com/cubiclesoft/product-hashes) tracks product hashes and version information about the latest releases of File Tracker.
 
+The [Changelog](docs/changelog.md) tracks high-level changes across the product.  It's not particularly complete and the earliest notes are from tracking in an internal git repo.
+
 **Is there a demo/shareware version?**
 
 Nope.  Sorry.  Please use the [Getting Started Guide](docs/getting_started.md), the Overview Tutorial video, and the questions and answers here in the FAQ to make your decision about whether or not File Tracker is right for you.  If the previous questions are bringing up old memories, then there's been a lot of wasted time on a problem that File Tracker solves.
